@@ -1,0 +1,62 @@
+body {
+    margin:0px;
+  font-family: Helvetica, sans-serif;
+  background-image: url("foto/Twitch.png");
+  background-size: cover;
+  
+}
+h1{
+    color:rgb(255, 255, 255);
+    font-family: Bungee;
+    text-shadow: 2px 0 #6441a5, 0 10px #6441a5, 0 5px #6441a5, 0 2px #6441a5;
+}
+.simbolo{
+  margin-left: 150px;
+  margin-top:-78px;
+}
+.simbolo img{
+  max-width: 38px;
+  max-height: 38px;
+  
+}
+form{
+  margin-top:10px;
+  font-family: Bungee;
+  color:blueviolet;
+}
+
+section{
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.contornoTwitch {
+  display:flex;
+  justify-content: center;
+}
+.copertinapkmn{
+
+  font-size: 30px;
+  font-family:sans-serif;
+  color:rgb(134, 0, 0);
+  
+}
+
+#sezione .album {
+  margin-left:46%;
+  margin: 10px;
+  border: 2px solid #6441a5;
+  padding: 5px;
+  max-width: 200px;
+  display: flex;
+  flex-direction:column;
+  align-items: center;
+}
+
+.cornice img {
+  max-width:100%;
+}
+.album img{
+  margin:4px;
+}
